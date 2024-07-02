@@ -10,6 +10,10 @@ MapData - 地图信息保存
 
 BubbleRob-Controller-main.py - 主函数入口
 
+## 作者
+
+Zhangyp
+
 ## 测试运行
 
 ```shell
