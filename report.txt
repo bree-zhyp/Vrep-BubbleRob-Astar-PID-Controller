@@ -1,0 +1,14 @@
+Reporter last modified: Fri Jun  7 16:25:36 2024
+Plan path length: 595.66
+Min plan path to obstacle distance: 31.37
+Average plan path to obstacle distance: 47.78
+Average path point angle difference: 1.92
+Max path point angle difference: 8.39
+Min robot path to obstacle distance: 31.56
+Average robot path to obstacle distance: 47.99
+Robot path length: 603.05
+Average robot path deviation from plan path: 1.49
+Robot path deviation from plan path: 83.32
+Robot path  time: 8.25 seconds
+Robot path energy: 9.34
+Goal reached
